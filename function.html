@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>functions</title>
+    <script>
+
+        function display(name)
+        {
+            document.write("function test"+name);
+
+            function display2()
+            {
+                document.write("closure function");
+            }
+            return display2();
+        }
+        function test_return()
+        {
+            return true;
+        }
+    </script>
+</head>
+<body>
+<script>
+
+    display("hello");
+    if(test_return){document.write("success")}</script>
+
+</body>
+</html>
