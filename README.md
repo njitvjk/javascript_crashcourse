@@ -2,7 +2,7 @@
 
 <ul>
   <li>Create JavaScript Programs</li>
-<li>Use Variable and Operators>/li>
+<li>Use Variable and Operators</li>
   <li>Launch Popup Boxes</li>
   <li>Write conditional and looping logic</li>
   <li>Create custom functions</li>
