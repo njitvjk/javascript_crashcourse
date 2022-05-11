@@ -1,4 +1,4 @@
-# javascript_crashcourse
+# javascript_crashcourse_basics
 
 <ul>
   <li>Create JavaScript Programs</li>
